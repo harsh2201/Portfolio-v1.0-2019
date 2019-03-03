@@ -1,0 +1,29 @@
+.maincontainer{
+    /* margin: 60px; */
+    height: fit-content;
+    /* width: 100%; */
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-content: center;
+    background-color: aqua;
+}
+
+.container {
+    /* margin: 60px; */
+    height: 100%;
+    /* width: 100%; */
+    background-image: url("./profile2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-content: center;
+}
+
+html, body{
+    margin: 60px;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+    background-color: #3269e7;
+    /* background-image: linear-gradient(#232526, #414345); */
+}
