@@ -36,6 +36,15 @@
     transform: scale(1.03);
 }
 
+.mask{
+    font-size: 50px;
+    color: aliceblue;
+    font-family: century gothic;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.35);
+}
+
 html, body{
     text-align: center;
     justify-content: center;
